@@ -19,7 +19,6 @@ class Solution {
         put('D', 500);
         put('M', 1000);
     }};
-
     public int romanToInt(String s) {
         int res = 0;
         for (int i = 0; i < s.length(); i++) {
